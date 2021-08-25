@@ -5,7 +5,6 @@
     header( 'Expires: ' . gmdate( 'r', 0 ) );
     header( 'Content-type: application/json' );
 
-
     $to         = 'inatu@usc.edu';  // put your email here
 
     $email_template = 'simple.html';
